@@ -1,5 +1,4 @@
-### Olá, me chamo Gustavo Rodrigues, estou iniciando na carreira Front-End!! 
-
+### Olá, me chamo Gustavo Rodrigues e estou iniciando no mundo da programação!! 🧑‍💻🫶
 <div>
   <a href="https://github.com/gusrodriguess" >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusrodriguess&show_icons=true&theme=merko" />
