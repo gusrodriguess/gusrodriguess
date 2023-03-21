@@ -1,4 +1,4 @@
-### Olá, me chamo Gustavo Rodrigues!! 
+### Olá, me chamo Gustavo Rodrigues, estou iniciando na carreira Front-End!! 
 
 <div>
   <a href="https://github.com/gusrodriguess" >
