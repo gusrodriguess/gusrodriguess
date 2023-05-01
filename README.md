@@ -1,4 +1,4 @@
-### Olá, me chamo Gustavo Rodrigues e estou iniciando no mundo da programação!! 🧑‍💻🫶
+### Olá, me chamo Gustavo Rodrigues e sou estudante de C&T, futuramente Engenharia da Computação, na UFRN. Tenho conhecimento em Javascript, HTML, CSS, PHP, MySQL! 🧑‍💻🫶
 <div>
   <a href="https://github.com/gusrodriguess" >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusrodriguess&show_icons=true&theme=merko" />
