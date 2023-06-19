@@ -1,4 +1,3 @@
-### Olá, me chamo Gustavo Rodrigues e sou estudante de Ciências e Tecnologia. Tenho conhecimento em Javascript, HTML, CSS, PHP e MySQL! 🧑‍💻
 <div>
   <a href="https://github.com/gusrodriguess" >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusrodriguess&show_icons=true&theme=merko" />
